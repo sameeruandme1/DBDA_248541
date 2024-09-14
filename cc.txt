@@ -1,0 +1,5 @@
+beacuse of cloud computing company don't have to maintaine the hardware
+  Cloud has three main types
+IaaS (Infrastructure As A Service)
+PaaS (Platform As A Service)
+SaaS(Software As A Service)
